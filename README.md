@@ -2,7 +2,7 @@
 
 A boilderplate [Electron](https://github.com/electron/electron) app with [React](https://github.com/facebook/react). This app was created using [create-react-app](https://github.com/facebook/create-react-app).
 
-(Electron Builder)[https://github.com/electron-userland/electron-builder] is being used for building and packaging the app. Currently only includes configuration for Linux.
+[Electron Builder](https://github.com/electron-userland/electron-builder) is being used for building and packaging the app. Currently only includes configuration for Linux.
 
 I have also installed [`momentjs`](https://momentjs.com/) and added time display to the react hello world app.
 
