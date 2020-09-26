@@ -4,6 +4,8 @@ A boilderplate [Electron](https://github.com/electron/electron) app with [React]
 
 (Electron Builder)[https://github.com/electron-userland/electron-builder] is being used for building and packaging the app. Currently only includes configuration for Linux.
 
+I have also installed [`momentjs`](https://momentjs.com/) and added time display to the react hello world app.
+
 ## Scripts
 
 ### `npm start`
